@@ -33,7 +33,7 @@ a:hover {
  color: #48474a; 
 }
 
-.custom-hr { 
+hr.new1 { 
  border: none; 
  height: 5px; 
  background-color: #000000; 
