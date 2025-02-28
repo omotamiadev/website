@@ -32,3 +32,11 @@ a:visited {
 a:hover {
  color: #48474a; 
 }
+
+.custom-hr { 
+ border: none; 
+ height: 5px; 
+ background-color: #000000; 
+ width: 50%; 
+ margin: 20px auto; 
+}
